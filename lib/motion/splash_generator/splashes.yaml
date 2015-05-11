@@ -1,0 +1,71 @@
+- # iPhone:
+  idiom: 'iphone < 4 portrait'
+  name: 'Default.png'
+  width: 320
+  height: 480
+  scale: 1
+  orientation: portrait  
+
+- # iPhone-Retina:
+  idiom: 'iphone 4 portrait'
+  name: 'Default@2x~iphone.png'
+  width: 320
+  height: 480
+  scale: 2
+  orientation: portrait
+
+- # iPhone5:
+  idiom: 'iphone 5 portrait'
+  name: 'Default-568h@2x~iphone.png'
+  width: 320
+  height: 568
+  scale: 2
+  orientation: portrait
+
+- # iPhone6:
+  idiom: 'iphone 6 portrait'
+  name: 'Default-667h@2x~iphone.png'
+  width: 375
+  height: 667
+  scale: 2
+  orientation: portrait
+
+- # iPhone6Plus:
+  idiom: 'iphone 6 plus portrait'
+  name: 'Default-736h@3x~iphone.png'
+  width: 414
+  height: 736
+  scale: 3
+  orientation: portrait
+
+- # iPad-portrait:
+  idiom: 'ipad 1/2 portrait'
+  name: 'Default-Portrait~ipad.png'
+  width: 768
+  height: 1024
+  scale: 1
+  orientation: portrait
+
+- # iPad-landscape:
+  idiom: 'ipad 1/2 landscape'
+  name: 'Default-Landscape~ipad.png'
+  orientation: 'landscape'
+  width: 1024
+  height: 768
+  scale: 1
+  
+- # iPad3-portrait: 
+  idiom: 'ipad 3/4/Air portrait'
+  name: 'Default-Portrait@2x~ipad.png'
+  width: 768
+  height: 1024
+  orientation: portrait
+  scale: 2
+
+- # iPad3-landscape:
+  idiom: 'ipad 3/4/Air landscape'
+  name: 'Default-Landscape@2x~ipad.png'
+  orientation: 'landscape'
+  width: 1024
+  height: 768
+  scale: 2

@@ -30,7 +30,9 @@ Or install it yourself as:
 
 and add it to your `Rakefile`:
 
-    require 'motion/splash_generator'
+``` ruby
+require 'motion/splash_generator'
+```
 
 ## Usage
 

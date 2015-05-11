@@ -59,7 +59,7 @@ module Motion
       end
   
       def img_name
-        ENV['TEMPLATE'] || "resources/splash-templ.png"
+        ENV['TEMPLATE'] || "resources/splash-template.png"
       end
   
       def device

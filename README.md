@@ -1,8 +1,8 @@
-# Motion::SplashGenerator
+# Splash Generator
 
 Are you tired of spending hours creating all of the different splash image versions you need for your app?
 
-motion-splash_generator effortlessly generates all of the iOS icon versions you'll ever need.
+**Splash Generator** effortlessly generates all of the iOS icon versions you'll ever need.
 
 Need icons? We gots them here: https://github.com/KatanaCode/motion-icon_generator
 
@@ -72,6 +72,10 @@ If you see an icon type that we're missing, please create a pull request or an i
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create a new Pull Request
 
+
+## Acknowledgements
+
+This was based partly on [https://github.com/spren9er/s9splashgen](https://github.com/spren9er/s9splashgen) by [@spren9er](https://github.com/spren9er) 
 
 By [Katana Code: web developers, mobile app developers, nice guys](katanacode.com/tools?utm_source=GitHub&utm_medium=README&utm_campaign=motion-splash_generator
 )

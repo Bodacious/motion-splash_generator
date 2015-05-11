@@ -2,7 +2,7 @@
 
 Are you tired of spending hours creating all of the different splash image versions you need for your app?
 
-**Splash Generator** effortlessly generates all of the iOS icon versions you'll ever need.
+**Splash Generator** effortlessly generates all of the iOS splash images you'll ever need.
 
 Need icons? We gots them here: https://github.com/KatanaCode/motion-icon_generator
 
@@ -36,8 +36,8 @@ and add it to your `Rakefile`:
 
 Usage is super-easy:
 
-1. Create a template icon image and save it as resources/splash-template.png. This should be about 2048x2048 pixels.
-2. run this rake task to create your icons `rake splashes:generate`. After a few glorious seconds you should see a new directory filled with icons called simply "splashes/"
+1. Create a template splash image and save it as resources/splash-template.png. This should be about 2048x2048 pixels.
+2. run this rake task to create your splashes `rake splashes:generate`. After a few glorious seconds you should see a new directory filled with images called simply "splashes/"
 
 
 ## Configuration
@@ -62,7 +62,7 @@ You can also set the following environment variables to change the default behav
 
 Icons are defined in [splashes.yaml](lib/motion/splash_generator/splashes.yaml). If you'd like to add your own custom splash sizes on a per-app basis, create a file named `config/splashes.yaml` in your app and stick some YAML in there.
 
-If you see an icon type that we're missing, please create a pull request or an issue.  
+If you see an image type that we're missing, please create a pull request or an issue.  
 
 ## Contributing
 

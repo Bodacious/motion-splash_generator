@@ -37,6 +37,48 @@
   height: 736
   scale: 3
   orientation: portrait
+  
+- # iPhone6S:
+  idiom: "iphone 6s portrait"
+  name: "Default-812h@2x~iphone.png"
+  width: 750
+  height: 1334
+  scale: 2
+  orientation: portrait
+
+- # iPhone6SPlus:
+  idiom: "iphone 6s+ portrait"
+  name: "Default-812h@3x~iphone.png"
+  width: 1125
+  height: 2436
+  scale: 3
+  orientation: portrait
+
+- # iPhoneXS:
+  idiom: "iphone x max portrait"
+  name: "Default-812h@3x~iphone.png"
+  width: 1125
+  height: 2436
+  scale: 3
+  orientation: portrait
+
+- # iPhoneXR:
+  idiom: "iphone xr portrait"
+  name: "Default-896h@2x~iphone.png"
+  width: 828
+  height: 1792
+  scale: 2
+  orientation: portrait
+
+
+- # iPhoneXSMax:
+  idiom: 'iphone xs max portrait'
+  name: 'Default-414w-896h@3x~iphone.png'
+  width: 1242
+  height: 2688
+  scale: 3
+  orientation: portrait
+  
 
 - # iPad-portrait:
   idiom: 'ipad 1/2 portrait'

@@ -39,7 +39,7 @@
   orientation: portrait
   
 - # iPhone6S:
-  idiom: "iphone 6s max portrait"
+  idiom: "iphone 6s portrait"
   name: "Default-812h@2x~iphone.png"
   width: 750
   height: 1334
@@ -47,7 +47,7 @@
   orientation: portrait
 
 - # iPhone6SPlus:
-  idiom: "iphone 6s+ max portrait"
+  idiom: "iphone 6s+ portrait"
   name: "Default-812h@3x~iphone.png"
   width: 1125
   height: 2436
